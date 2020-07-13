@@ -1,0 +1,51 @@
+[
+    {
+        "nom": "Zapatillas",
+        "mar": "Marca A",
+        "pre": 125,
+        "can": 10,
+        "img": "0001.jpg"
+    },
+    {
+        "nom": "Buzos",
+        "mar": "Marca B",
+        "pre": 45,
+        "can": 25,
+        "img": "0002.jpg"
+    },
+    {
+        "nom": "Polos",
+        "mar": "Marca A",
+        "pre": 95,
+        "can": 28,
+        "img": "0003.jpg"
+    },
+    {
+        "nom": "Medias",
+        "mar": "Marca C",
+        "pre": 6,
+        "can": 35,
+        "img": "0004.jpg"
+    },
+    {
+        "nom": "Gorras",
+        "mar": "Marca B",
+        "pre": 25,
+        "can": 15,
+        "img": "0005.jpg"
+    },
+    {
+        "nom": "Chalinas",
+        "mar": "Marca A",
+        "pre": 18,
+        "can": 5,
+        "img": "0006.jpg"
+    },
+    {
+        "nom": "Pantalon",
+        "mar": "Marca B",
+        "pre": 65,
+        "can": 75,
+        "img": "0007.jpg"
+    }
+]
