@@ -1,0 +1,51 @@
+[
+    {
+        "nom": "Audifonos",
+        "mar": "Marca C",
+        "pre": 350,
+        "can": 10,
+        "img": "0001.jpg"
+    },
+    {
+        "nom": "Iphone 11",
+        "mar": "Marca C",
+        "pre": 2010,
+        "can": 25,
+        "img": "0002.jpg"
+    },
+    {
+        "nom": "Playstation",
+        "mar": "Marca B",
+        "pre": 1080,
+        "can": 28,
+        "img": "0003.jpg"
+    },
+    {
+        "nom": "Kindle",
+        "mar": "Marca C",
+        "pre": 500,
+        "can": 35,
+        "img": "0004.jpg"
+    },
+    {
+        "nom": "Lenovo",
+        "mar": "Marca A",
+        "pre": 3000,
+        "can": 15,
+        "img": "0005.jpg"
+    },
+    {
+        "nom": "Nintendo Switch",
+        "mar": "Marca B",
+        "pre": 18,
+        "can": 5,
+        "img": "0006.jpg"
+    },
+    {
+        "nom": "Airpods",
+        "mar": "Marca C",
+        "pre": 500,
+        "can": 75,
+        "img": "0007.jpg"
+    }
+]
